@@ -1,4 +1,0 @@
-To be able to compile version for JDK 1.4 use JSR166 backport version from:
-http://www.mathcs.emory.edu/dcl/util/backport-util-concurrent/
-
-Download backport-util-concurrent.jar and place it here.
